@@ -1,4 +1,4 @@
-module customhttp
+module github.com/sw33tLie/customhttp
 
 go 1.21.1
 
