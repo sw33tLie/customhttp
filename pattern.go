@@ -4,7 +4,7 @@
 
 // Patterns for ServeMux routing.
 
-package http
+package customhttp
 
 import (
 	"errors"

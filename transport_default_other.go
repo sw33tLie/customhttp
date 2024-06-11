@@ -4,7 +4,7 @@
 
 //go:build !wasm
 
-package http
+package customhttp
 
 import (
 	"context"

@@ -16,7 +16,7 @@
 // we will first try to match the path "/a/b/c" with /a/b/z, and
 // when that fails we will try against /a/{x}/c.
 
-package http
+package customhttp
 
 import (
 	"strings"

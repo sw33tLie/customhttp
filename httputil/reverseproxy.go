@@ -4,7 +4,7 @@
 
 // HTTP reverse proxy handler
 
-package httputil
+package customhttputil
 
 import (
 	"context"

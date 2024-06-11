@@ -4,7 +4,7 @@
 
 //go:build js && wasm
 
-package http
+package customhttp
 
 import (
 	"errors"

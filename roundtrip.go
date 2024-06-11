@@ -4,7 +4,7 @@
 
 //go:build !js
 
-package http
+package customhttp
 
 import _ "unsafe" // for linkname
 

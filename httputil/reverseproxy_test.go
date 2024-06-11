@@ -4,7 +4,7 @@
 
 // Reverse proxy tests.
 
-package httputil
+package customhttputil
 
 import (
 	"bufio"

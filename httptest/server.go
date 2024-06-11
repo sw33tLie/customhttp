@@ -4,7 +4,7 @@
 
 // Implementation of Server
 
-package httptest
+package customhttptest
 
 import (
 	"crypto/tls"

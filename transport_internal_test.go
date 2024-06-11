@@ -2,9 +2,9 @@
 // Use of this source code is governed by a BSD-style
 // license that can be found in the LICENSE file.
 
-// White-box tests for transport.go (in package http instead of http_test).
+// White-box tests for transport.go (in package customhttp instead of http_test).
 
-package http
+package customhttp
 
 import (
 	"bytes"

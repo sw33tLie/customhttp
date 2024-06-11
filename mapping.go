@@ -2,7 +2,7 @@
 // Use of this source code is governed by a BSD-style
 // license that can be found in the LICENSE file.
 
-package http
+package customhttp
 
 // A mapping is a collection of key-value pairs where the keys are unique.
 // A zero mapping is empty and ready to use.

@@ -4,7 +4,7 @@
 
 // Tests for client.go
 
-package http_test
+package customhttp_test
 
 import (
 	"bytes"

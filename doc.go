@@ -107,4 +107,4 @@ functions. Manually configuring HTTP/2 via the golang.org/x/net/http2
 package takes precedence over the net/http package's built-in HTTP/2
 support.
 */
-package http
+package customhttp

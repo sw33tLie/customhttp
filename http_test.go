@@ -4,7 +4,7 @@
 
 // Tests of internal functions and things with no better homes.
 
-package http
+package customhttp
 
 import (
 	"bytes"
